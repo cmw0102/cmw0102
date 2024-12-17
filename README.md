@@ -1,16 +1,17 @@
-## Hi there 👋
+## ABAP 개발자로 진화중...
 
-<!--
-**cmw0102/cmw0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--내용 부분-->
+<h3>👩🏻‍💻 About me</h3>
+<div align="center">
+  <p>소프트웨어전공 (Software Engineering)</p>
+</div>
+<h3🪪 자격증</h3>
+<div align="center">
+  <p>정보처리기사 - 24년 3회차(24.12)</p>
+  <p>SQLD - 50회(23.10)</p>
+</div>
+<h3>🏆 수상 경력</h3>
+<div align="center">
+  <p>교내 캡스톤 디자인 경진대회 - 24년 3회차(24.12)</p>
+</div>
